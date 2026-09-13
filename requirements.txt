@@ -1,6 +1,6 @@
 scikit-learn==1.6.1
 joblib==1.6.0
-pandas==2.2.3  # (or whatever version you used)
-numpy==2.0.2   # (or your original version)
+pandas==2.2.3  # 
+numpy==2.0.2   # 
 fastapi==0.115.0
 uvicorn==0.34.0
